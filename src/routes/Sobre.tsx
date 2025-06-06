@@ -1,7 +1,7 @@
 export const Sobre = () => {
   return (
     <section
-      id="about"
+      id="sobre"
       className="bg-[url(./img/gs-imagem-1.jpg)] mt-20 bg-cover bg-center bg-no-repeat text-white container py-24 sm:py-32"
     >
       <div className="bg-muted/50 rounded-xxl py-20 backdrop-blur-md">

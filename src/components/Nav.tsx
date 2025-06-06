@@ -24,15 +24,15 @@ interface RouteProps {
 
 const routeList: RouteProps[] = [
   {
-    href: "#Sobre",
+    href: "#sobre",
     label: "SOBRE",
   },
   {
-    href: "#Soluções",
+    href: "#soluções",
     label: "SOLUÇÕES",
   },
   {
-    href: "#FAQ",
+    href: "#faq",
     label: "FAQ",
   },
   {
