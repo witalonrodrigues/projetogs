@@ -1,59 +1,58 @@
-# Shadcn/UI Landing Page Template
+# 🌊 GS - Sistema de Monitoramento de Enchentes
 
-## <a href="https://ui.shadcn.com/" target="_blank">ShadcnUI</a> + <a href="https://react.dev/" target="_blank">React</a> + <a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a> + <a href="https://tailwindcss.com/" target="_blank">Tailwind</a>.
+Este projeto é uma aplicação web moderna para conscientização, simulação e monitoramento de enchentes no Brasil, combinando design responsivo, sensores IoT e visualizações interativas. Desenvolvido com React, TailwindCSS e ShadCN UI.
 
-![shadch-landing-page](https://github.com/leoMirandaa/shadcn-landing-page/assets/61714687/3ba7b51f-9589-4541-800a-5ab7cecad1b5)
+---
 
-Build your React landing page effortlessly with the required sections to your project. <a href="https://shadcn-landing-page.vercel.app/" target="_blank">Live Demo</a>
+## 🔗 Acesse
 
-## Sections
+> [🔒 Página de Login](https://seu-link.com/login)  
+> [🌐 Página Principal (Landing Page)](https://seu-link.com/)
 
-- [x] Navbar
-- [x] Sidebar(mobile)
-- [x] Hero
-- [x] Sponsors
-- [x] About
-- [x] Stats
-- [x] How It Works
-- [x] Features
-- [x] Services
-- [x] Call-to-Action (CTA)
-- [x] Testimonials
-- [x] Team
-- [x] Pricing
-- [x] Newsletter
-- [x] Frequently Asked Questions(FAQ)
-- [x] Footer
+---
 
-## Features
+## 📸 Screenshots
 
-- [x] Fully Responsive Design
-- [x] User Friendly Navigation
-- [x] Dark Mode
-- [x] Meta tags
+| Tela Principal                      
 
-## How to install
+![image](https://github.com/user-attachments/assets/ba56515d-f2c6-4416-8ba9-b479e6d4a71f)
 
-1. Clone this repository:
 
-```bash
-git clone https://github.com/leoMirandaa/shadcn-landing-page.git
-```
 
-2. Go into project
+---
 
-```bash
-cd shadcn-landing-page
-```
+## ⚙️ Funcionalidades
 
-3. Install dependencies
+- ✅ **Landing page responsiva** com seções navegáveis: *Features, FAQ, Testimonials, Pricing*
+- ✅ **Redirecionamento de rotas** com React Router
+- ✅ **Página de Login** estilizada com divisão em imagem e formulário
+- ✅ **Estilização com TailwindCSS** e animações com ShadCN UI
+- ✅ **Blur, fontes personalizadas e responsividade**
+- ✅ Pronto para integração com sensores e dashboards de enchentes
+
+---
+
+## 🧱 Tecnologias
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [TailwindCSS](https://tailwindcss.com/)
+- [ShadCN UI](https://ui.shadcn.dev/)
+- [Lucide Icons](https://lucide.dev/)
+- [React Router DOM](https://reactrouter.com/)
+
+---
+
+## 🚀 Como rodar localmente
 
 ```bash
+# Clone o repositório
+git clone https://github.com/seu-usuario/gs-front.git
+cd gs-front
+
+# Instale as dependências
 npm install
-```
 
-4. Run project
-
-```bash
+# Inicie o servidor de desenvolvimento
 npm run dev
-```
