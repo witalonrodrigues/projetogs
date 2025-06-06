@@ -1,15 +1,9 @@
 # 🌊 GS - Sistema de Monitoramento de Enchentes
 
-Este projeto é uma aplicação web moderna para conscientização, simulação e monitoramento de enchentes no Brasil, combinando design responsivo, sensores IoT e visualizações interativas. Desenvolvido com React, TailwindCSS e ShadCN UI.
+Este projeto é uma aplicação web moderna para conscientização, simulação e monitoramento de enchentes no Brasil, combinando design responsivo, sensores IoT e visualizações interativas. Desenvolvido com React, TailwindCSS.
 
 ---
 
-## 🔗 Acesse
-
-> [🔒 Página de Login](https://seu-link.com/login)  
-> [🌐 Página Principal (Landing Page)](https://seu-link.com/)
-
----
 
 ## 📸 Screenshots
 
