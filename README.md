@@ -50,3 +50,10 @@ npm install
 
 # Inicie o servidor de desenvolvimento
 npm run dev
+
+```
+
+## Autor
+
+Witalon Antonio Rodrigues - RM559023
+##A
